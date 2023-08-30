@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Project on Spring, Docker, MySQL, AWS S3, and React.js**
 
-- 👨‍💻 All of my projects are available at [https://garvit2435.github.io/garvit2345.github.io/](https://garvit2435.github.io/garvit2345.github.io/)
+- 👨‍💻 All of my projects are available [here](https://garvit2435.github.io/garvit2345.github.io/)
 
 - 📫 How to reach me **garvitnagpal2435@gmail.com**
 
