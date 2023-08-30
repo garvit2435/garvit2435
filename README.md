@@ -24,6 +24,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/garvit-nagpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvit-nagpal" height="30" width="40" /></a>
 <a href="https://instagram.com/garvitnagpal0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garvitnagpal0001" height="30" width="40" /></a>
+<h3 align="left">Let's Practice together:</h3>
+<p align="left">
 <a href="https://www.leetcode.com/garvitnagpal2435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garvitnagpal2435" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/garvitnagpal2435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="garvitnagpal2435" height="30" width="40" /></a>
 </p>
