@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://github.com/garvit2435/garvit2435/blob/f5843e30445bef993c1f456e6caa47b0c12a6d4f/banner.png)
 <h1 align="center">Hi 👋, I'm Garvit Nagpal</h1>
 <h3 align="center">A aspiring software developer from India</h3>
 
