@@ -1,4 +1,7 @@
-img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"
+<img align="right" alt="Coding" width="400" src="https://github.com/garvit2435/garvit2435/blob/8f962635e6c7629619517efaf75c1b002f1a533a/gitprofile.gif">
+
+
+
 <h1 align="center">Hi 👋, I'm Garvit Nagpal</h1>
 <h3 align="center">A aspiring software developer from India</h3>
 
