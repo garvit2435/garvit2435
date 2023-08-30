@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://garvit2435.github.io/garvit2345.github.io/)
 
-- 📫 How to reach me **garvitnagpal2435@gmail.com**
+- 📫 Reach out to me at **garvitnagpal2435@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1F_HPCgpuNB-g8leu4Mzm1GkNOV7qEAJF?usp=drive_link)
 
