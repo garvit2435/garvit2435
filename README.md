@@ -1,3 +1,4 @@
+img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"
 <h1 align="center">Hi 👋, I'm Garvit Nagpal</h1>
 <h3 align="center">A aspiring software developer from India</h3>
 
