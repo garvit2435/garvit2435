@@ -1,8 +1,8 @@
-
-
-
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Garvit Nagpal</h1>
 <h3 align="center">A aspiring software developer from India</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://github.com/garvit2435/garvit2435/blob/8f962635e6c7629619517efaf75c1b002f1a533a/gitprofile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit2435&label=Profile%20views&color=0e75b6&style=flat" alt="garvit2435" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **garvitnagpal2435@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1F_HPCgpuNB-g8leu4Mzm1GkNOV7qEAJF?usp=drive_link](https://drive.google.com/drive/folders/1F_HPCgpuNB-g8leu4Mzm1GkNOV7qEAJF?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1F_HPCgpuNB-g8leu4Mzm1GkNOV7qEAJF?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
 
